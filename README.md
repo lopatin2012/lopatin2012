@@ -18,15 +18,16 @@
 
 | Проект | О чём |
 |---|---|
+| [VisoMaster-Modern](https://github.com/lopatin2012/VisoMaster-Modern) | Форк VisoMaster: AI-замена и редактирование лиц (изображения, видео, веб-камера) — современный UI (PySide6 + qfluentwidgets), локализация RU/EN/ZH, авто-установщик; адаптирован под GPU NVIDIA (CUDA 12.9 / Blackwell, ONNX Runtime / TensorRT) |
 | [VerificatorDataMatrix](https://github.com/lopatin2012/VerificatorDataMatrix) | Верификатор GS1 DataMatrix с оценкой качества печати по ISO/IEC 15415: грейдинг, heatmap дефектов, PDF-отчёты, web-интерфейс, fallback-локатор на нейросети |
+| [PartyManagementSystem](https://github.com/lopatin2012/PartyManagementSystem) | Система управления партиями |
 | [signature_service](https://github.com/lopatin2012/signature_service) | Микросервис электронной подписи CAdES-BES на FastAPI: Windows (CAdESCOM) и Linux (КриптоПро CSP) |
 | [PrintingMachine](https://github.com/lopatin2012/PrintingMachine) | Сервис печати групповой этикетки для производственной линии |
-| [PartyManagementSystem](https://github.com/lopatin2012/PartyManagementSystem) | Система управления партиями |
 | [gameDM](https://github.com/lopatin2012/gameDM) | Кликер про внедрение маркировки DataMatrix — на vanilla JS, без сборки |
 
 ### Стек
 
-`Python` `Django` `FastAPI` `PostgreSQL` `REST API` `Kotlin` `Android` `OpenCV` `Docker` `Git` `Linux` `ПЛК Delta` `ТСД`
+`Python` `Django` `FastAPI` `PostgreSQL` `REST API` `Kotlin` `Android` `OpenCV` `PySide6/Qt` `PyTorch` `ONNX Runtime` `CUDA` `Docker` `Git` `Linux` `ПЛК Delta` `ТСД`
 
 ### Связаться
 
